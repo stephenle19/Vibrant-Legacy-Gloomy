@@ -15,6 +15,9 @@
         "addition": "ambient.crimson_forest.additions",
         "loop": "ambient.crimson_forest.loop",
         "mood": "ambient.crimson_forest.mood"
+      },
+      "minecraft:atmosphere_identifier": {
+        "atmosphere_identifier": "legacy:crimson_atmospherics"
       }
     }
   }

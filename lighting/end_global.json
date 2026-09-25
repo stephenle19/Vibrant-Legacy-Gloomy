@@ -19,14 +19,14 @@
             "0.000000": 0.5
           },
           "color": {
-            "0.000000": [60, 100, 255]
+            "0.000000": [90, 115, 150]
           }
         },
         "orbital_offset_degrees": 30
       },
       "flash": {
-        "illuminance": 20,
-        "color": [255, 255, 255]
+        "illuminance": 10,
+        "color": [75, 45, 140]
       }
     },
     "emissive": {

@@ -15,6 +15,9 @@
         "addition": "ambient.basalt_deltas.additions",
         "loop": "ambient.basalt_deltas.loop",
         "mood": "ambient.basalt_deltas.mood"
+      },
+      "minecraft:atmosphere_identifier": {
+        "atmosphere_identifier": "legacy:basalt_atmospherics"
       }
     }
   }

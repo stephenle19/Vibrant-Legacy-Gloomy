@@ -15,6 +15,9 @@
         "addition": "ambient.soulsand_valley.additions",
         "loop": "ambient.soulsand_valley.loop",
         "mood": "ambient.soulsand_valley.mood"
+      },
+      "minecraft:atmosphere_identifier": {
+        "atmosphere_identifier": "legacy:soul_atmospherics"
       }
     }
   }

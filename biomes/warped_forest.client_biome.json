@@ -15,6 +15,9 @@
         "addition": "ambient.warped_forest.additions",
         "loop": "ambient.warped_forest.loop",
         "mood": "ambient.warped_forest.mood"
+      },
+      "minecraft:atmosphere_identifier": {
+        "atmosphere_identifier": "legacy:warped_atmospherics"
       }
     }
   }
