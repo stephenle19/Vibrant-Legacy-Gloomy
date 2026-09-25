@@ -8,8 +8,8 @@
       "density": {
         "air": {
           "max_density": 0.15,
-          "zero_density_height": 200,
-          "max_density_height": 50,
+          "zero_density_height": 87,
+          "max_density_height": 77,
           "uniform": false
         },
         "weather": {
