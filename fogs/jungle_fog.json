@@ -20,7 +20,7 @@
       "media_coefficients": {
         "air": {
           "scattering": [0.1, 0.1, 0.1],
-          "absorption": [0.15, 0.1, 0.1]
+          "absorption": [0.15, 0.065, 0.1]
         }
       },
       "henyey_greenstein_g": {
