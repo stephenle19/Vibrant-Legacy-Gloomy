@@ -5,10 +5,10 @@
       "identifier": "legacy:crimson_atmospherics"
     },
     "sky_zenith_color": {
-      "0.000000": [100, 30, 0]
+      "0.000000": [100, 0, 0]
     },
     "sky_horizon_color": {
-      "0.000000": [100, 30, 0]
+      "0.000000": [100, 0, 0]
     },
     "rayleigh_strength": {
       "0.000000": 5.5

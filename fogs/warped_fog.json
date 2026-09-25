@@ -6,8 +6,8 @@
     },
     "distance": {
       "air": {
-        "fog_start": 40,
-        "fog_end": 400,
+        "fog_start": 30,
+        "fog_end": 300,
         "fog_color": "#006464",
         "render_distance_type": "fixed"
       }
@@ -15,7 +15,7 @@
     "volumetric": {
       "density": {
         "air": {
-          "max_density": 0,
+          "max_density": 0.1,
           "uniform": true
         },
         "weather": {
