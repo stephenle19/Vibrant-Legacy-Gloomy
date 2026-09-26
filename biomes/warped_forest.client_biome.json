@@ -18,6 +18,9 @@
       },
       "minecraft:atmosphere_identifier": {
         "atmosphere_identifier": "legacy:warped_atmospherics"
+      },
+      "minecraft:lighting_identifier": {
+        "lighting_identifier": "legacy:hell_lighting"
       }
     }
   }
