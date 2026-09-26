@@ -20,7 +20,7 @@
         "atmosphere_identifier": "legacy:soul_atmospherics"
       },
       "minecraft:lighting_identifier": {
-        "lighting_identifier": "legacy:hell_lighting"
+        "lighting_identifier": "legacy:soul_lighting"
       }
     }
   }
