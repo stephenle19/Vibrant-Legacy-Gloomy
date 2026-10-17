@@ -1,9 +1,9 @@
 {
   "format_version": 2,
   "header": {
-    "name": "Vibrant Legacy Gloomy - Open Alpha 1",
+    "name": "Vibrant Legacy Gloomy V0.0.1",
     "description": "Vibrant Legacy Gloomy is another project of my Vibrant Legacy series!",
-    "uuid": "0e374577-a45e-467e-8192-407fee505c14",
+    "uuid": "6fcdea37-7f3b-4fb6-9369-fb1969ac7557",
     "version": [1, 0, 0],
     "min_engine_version": [1, 21, 0]
   },
@@ -11,7 +11,7 @@
     {
       "description": "By Stephen_Le",
       "type": "resources",
-      "uuid": "439f2ded-6503-4f51-963f-bf31f901ae60",
+      "uuid": "1f02a505-ee23-49f4-94dc-a6ae567ebd6a",
       "version": [1, 0, 0]
     }
   ],
