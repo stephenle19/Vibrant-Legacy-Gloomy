@@ -3,15 +3,15 @@
   "header": {
     "name": "Vibrant Legacy Gloomy V0.0.2",
     "description": "Vibrant Legacy Gloomy is another project of my Vibrant Legacy series!",
-    "uuid": "6fcdea37-7f3b-4fb6-9369-fb1969ac7557",
+    "uuid": "a398adb5-d0ac-4a63-8ccc-f52ac3d45b67",
     "version": [1, 0, 0],
-    "min_engine_version": [1, 21, 0]
+    "min_engine_version": [1, 21, 120]
   },
   "modules": [
     {
       "description": "By Stephen_Le",
       "type": "resources",
-      "uuid": "1f02a505-ee23-49f4-94dc-a6ae567ebd6a",
+      "uuid": "2b78a062-731e-4c01-9610-690daee6e089",
       "version": [1, 0, 0]
     }
   ],
